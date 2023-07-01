@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello ReactJS here I come :)</h1>
+    <div className="Introduction">
+      <h1>Hello ReactJS</h1>
     </div>
   );
 }
